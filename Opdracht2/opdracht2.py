@@ -1,9 +1,9 @@
 # syntax error
-print(Hello world)
+print("Hello world!")
 
 # runtime error
-10 * (2/0)
+10 * (2/5)
 
 # semantic error
-name = "Alice"
-print("Hello name")
+name = "Antonio"
+print("Hello Antonio!")
