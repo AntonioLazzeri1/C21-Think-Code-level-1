@@ -7,8 +7,4 @@ def favoriete_games(name):
     favoriete_games("fortnite")
     favoriete_games("gta 5")
     
-    defdingen_wat_ik_leuk_vind_om_te_doen (name):   
-        print("een van de dingen die leuk vind om te doen is",name)
-dingen_wat_ik_leuk_vind_om_te_doen("games spelen")
-dingen_wat_ik_leuk_vind_om_te_doen("reizen")
-dingen_wat_ik_leuk_vind_om_te_doen("familie film kijken")
+   
