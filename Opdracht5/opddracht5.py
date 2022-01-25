@@ -7,5 +7,5 @@ a = 22
 b = 100
 if b > a:
   print("b is greater than a")
-
+Question = input("wat is mijn naam")
   
